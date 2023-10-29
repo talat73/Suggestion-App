@@ -1,0 +1,12 @@
+/Users/talat.bayram/Projects/SuggestionApp/SuggestionAppLibrary/bin/Debug/net7.0/SuggestionAppLibrary.deps.json
+/Users/talat.bayram/Projects/SuggestionApp/SuggestionAppLibrary/bin/Debug/net7.0/SuggestionAppLibrary.dll
+/Users/talat.bayram/Projects/SuggestionApp/SuggestionAppLibrary/bin/Debug/net7.0/SuggestionAppLibrary.pdb
+/Users/talat.bayram/Projects/SuggestionApp/SuggestionAppLibrary/obj/Debug/net7.0/SuggestionAppLibrary.csproj.AssemblyReference.cache
+/Users/talat.bayram/Projects/SuggestionApp/SuggestionAppLibrary/obj/Debug/net7.0/SuggestionAppLibrary.GeneratedMSBuildEditorConfig.editorconfig
+/Users/talat.bayram/Projects/SuggestionApp/SuggestionAppLibrary/obj/Debug/net7.0/SuggestionAppLibrary.AssemblyInfoInputs.cache
+/Users/talat.bayram/Projects/SuggestionApp/SuggestionAppLibrary/obj/Debug/net7.0/SuggestionAppLibrary.AssemblyInfo.cs
+/Users/talat.bayram/Projects/SuggestionApp/SuggestionAppLibrary/obj/Debug/net7.0/SuggestionAppLibrary.csproj.CoreCompileInputs.cache
+/Users/talat.bayram/Projects/SuggestionApp/SuggestionAppLibrary/obj/Debug/net7.0/SuggestionAppLibrary.dll
+/Users/talat.bayram/Projects/SuggestionApp/SuggestionAppLibrary/obj/Debug/net7.0/refint/SuggestionAppLibrary.dll
+/Users/talat.bayram/Projects/SuggestionApp/SuggestionAppLibrary/obj/Debug/net7.0/SuggestionAppLibrary.pdb
+/Users/talat.bayram/Projects/SuggestionApp/SuggestionAppLibrary/obj/Debug/net7.0/ref/SuggestionAppLibrary.dll
